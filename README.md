@@ -11,7 +11,7 @@ This project includes the following libraries/tools:
 * [ ] TanStack Query - data retrieval
 * [ ] React Router - client-side router
 * [ ] Zustand - state management
-* [ ] Shad/cn - component library
-* [ ] TailwindCSS - CSS styling library
+* [x] Shad/cn - component library
+* [x] TailwindCSS - CSS styling library
 * [x] Vite - bundling/build
 * [ ] Playwright - end to end testing
